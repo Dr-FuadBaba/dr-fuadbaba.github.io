@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Fuad Baba">
+  <rect width="48" height="48" rx="10" fill="#1c3f7a"/>
+  <circle cx="38" cy="10" r="3.5" fill="#c4941f"/>
+  <path d="M11 34V15h10M11 24.5h8" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 15v19h6.5a5 5 0 0 0 0-10H26m0 0h5.5a4.5 4.5 0 0 0 0-9H26" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
